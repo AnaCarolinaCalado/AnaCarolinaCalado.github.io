@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Luciana Dias de Macedo"
-description              : "Computational Linguist"
-repository               : "lucianadmacedo/lucianadmacedo.github.io"
+title                    : "Ana Carolina Silveira Calado Siqueira Barbosa"
+description              : "RD"
+repository               : "AnaCarolinaCalado/AnaCarolinaCalado.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Luciana Dias de Macedo"
-  avatar           : "images/luciana_profile.png"
-  bio              : "MA in Applied Linguistics (UFMG)"
+  name             : "Ana Carolina Silveira Calado Siqueira Barbosa"
+  avatar           : "images/ACCB_profile.png"
+  bio              : "MS in Human Nutrition"
   location         : "Philadelphia PA"
-  CV               : "_pages/LucianaDMacedo_CL_CV.pdf"
+  CV               : # "_pages/LucianaDMacedo_CL_CV.pdf"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_iXeRwIAAAAJ&hl=en"
-  email            : "lucianadiasdemacedo@gmail.com"
+  googlescholar    : # "https://scholar.google.com/citations?user=_iXeRwIAAAAJ&hl=en"
+  email            : "anacarolina.calado@gmail.com "
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

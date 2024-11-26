@@ -17,43 +17,48 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I specialize in computational linguistics and natural language processing (NLP), focusing on enhancing models for Portuguese language understanding. My experience includes fine-tuning machine learning models, annotating and analyzing linguistic data, and developing automated tools to support language analysis. I’m dedicated to using data-driven insights to explore language complexity, improve natural language understanding, and support linguistic research through a combination of quantitative analysis, corpus linguistics, and programming.
+I am a nutritionist with a Master's degree in Human Nutrition and a certification in Maternal and Child Nutrition, focusing on both clinical and molecular aspects. I have extensive experience in managing chronic diseases, including kidney disease, obesity, and diabetes, with a particular focus on vulnerable populations for 14 years. In recent years, my work has increasingly engaged with public policy and social justice issues in Latin America and the United States, particularly food insecurity and its relationship to chronic disease. My academic interests lie at the intersection of nutrition, public health, and social justice, with a goal of advancing more equitable and effective food policies to improve the health of at-risk populations.
 
 #  📄 Publications 
-- Erjavec, T. et al. [ParlaMint: Comparable Corpora of European Parliamentary Data](https://epubl.ktu.edu/object/elaba:108748986/). CLARIN, 2021.
+- Ribeiro, H.S., **Barbosa, A.C.C.**, Wilkinson, T.J. et al.[Diagnosing sarcopenia in pediatrics is not “vexatious” but appropriate.](https://doi.org/10.1007/s00467-024-06525-z).*Pediatr Nephrol*, 2024.
 
-- Dutra, D., Queiroz, J., Macedo, L., Costa, D., Mattos, E. [Adjectives as Nominal Pre-modifiers in Chemistry and Applied Linguistics in Research Articles](https://www.researchgate.net/publication/339291244_Adjectives_as_nominal_pre-modifiers_in_chemistry_and_applied_linguistics_research_articles/) - a chapter in Advances in Corpus-Based Research on Academic Writing: Effects of discipline, register, and writer expertise: ed. by Ute Römer, Viviana Cortes, Eric Friginal. John Benjamins Publishing Company, 2020.
+- **Barbosa ACC**, Brison RS, Gomes CC, Wilkinson TJ, Duarte MP, Gruezo ND, Ribeiro HS. [Should we consider sarcopenia in pediatric patients with chronic kidney disease? A preliminary cross-sectional analysis.](https://doi.org/10.1007/s00467-023-06111-9) *Pediatric Nephrology* (Berlin, Germany), 11 Aug. 2023.
 
-- Macedo, L., Costa, D. Lexical Bundles Conveying Modality in Argumentative e Essays of EAP Students: a corpus-based study. [ANAIS DO X CONGRESSO INTERNACIONAL](https://www.scribd.com/document/434590209/Anais-do-X-Congresso-Internacional-da-Abralin). ABRALIN, pp. 2068-2076, 2017. 
+- **Barbosa, Ana Carolina S C S** et al. [Biochemical Markers and Obstructive Sleep Apnea Risk in Individuals After Long-Term Bariatric Surgery](https://doi.org/10.1007/s11695-022-06222-6). *Obesity Surgery* vol. 32,10 (2022): 3272-3279.
+
+- **Barbosa, Ana Carolina C** et al. [Inflammatory response in chronic kidney patients in predialysis and its relation to protein intake](https://pesquisa.bvsalud.org/portal/resource/pt/lil-755269?lang=en.) *Comunicação em Ciências da Saúde*; 23 (2): 111-125, abr.-jun. 2012.
 
 
 #  📖 Work Experience
-- *10/21 - 02/23*, **NLU developer** for Cerence: Development and testing of grammars for NLU (pt-BR and pt-PT); text manipulation and data processing; localization of data; accuracy and coverage improvement; prepare and release models biweekly.
+- *Mar 2018 – Present*, **Registered dietitian** *Nutrição Avançada - Outpatient clinic care provider* Provide clinical nutrition services to outpatients, including assessment of individual nutritional status, evaluation, and recommendation of appropriate dietary interventions to improve nutritional status; Instructed patients and families regarding their nutritional therapy needs which included dietary interventions, oral diets, tube feedings, and intravenous feedings;
 
-- *10/18 - 08/20*, **Associate Linguist for Google** via Lionbridge: Linguistic expertise in developing NLP tools for Brazilian Portuguese. My position mainly involved developing grammars; creating templates for Natural Language Understanding; evaluating current system outputs; annotating and reviewing linguistic data; labelling text for disambiguation, expansion, and text normalization; research, development, and experimental projects.
+- *Mar 2013 – Mar 2016*, **Registered dietitian** *Children’s Hospital of Brasília*: Mentored nutritionist residents in the Nephrology division by leading monthly nutrition journal clubs, as well as supervising dietetic prescriptions and nutritional assessments for pediatric patients; Provided clinical nutrition services to inpatients and outpatients, including assessment of individual nutritional status, evaluation, and recommendation of appropriate dietary interventions to improve nutritional status; Instructed patients and families regarding their nutritional therapy needs which included dietary interventions, oral diets, tube feedings, and intravenous feedings; Provided nutrition education and training for hospital staff, nurses, physicians, graduate and undergraduate students, parent groups, and professional organizations.
 
-- *08/18 - 10/18*, **Technical writer** for LexisNexis Risk Solutions: Writing, translation, editing, and proofreading of IT and Software manuals and procedures, En-Pt and Pt-En.
+- *Nov 2013 – Sep 2021*, **Registered dietitian** *DaVita Brazil - SEANE*:Assessed, monitored, and analyzed lab test results; educated patients and families on the importance of nutrition awareness in managing chronic kidney disease Participated as a member of DaVita’s interdisciplinary care team to provide nutritional services and education according to patients’ needs.
 
 
-#  🍎 Teaching Experience 
-- *11/23*, **Workshop** [Corpus pre-processing and cleaning using CLI(command line interface)](http://www.letras.ufmg.br/site/en-GB/noticiass/13-noticias-comuns/2425-nelc-promove-workshop-sobre-pre-processamento-e-limpeza-de-corpora) for Universidade Federal de Minas Gerais, under the supervision of Prof. Deise Dutra.
-- *08/12 - 08/18*, **English and Portuguese (L2) teacher** for Rizvi Intl Schools Classes tailored for business students at multinational companies.
-- *01/16 - 08/16*, **Instructor of English for Academic Purposes** for Universidade Federal de Minas Gerais: graduate and undergrad students from UFMG. IFA project, under the supervision of Prof. Deise Dutra.
+#  🍎 Conference presentations and lectures 
+- *Oct 2024*, **Favela Nutrida Program** *Oswaldo Cruz Foundation (Fiocruz) & Pontifical Catholic University of Rio de Janeiro (PUC-Rio)* Presentation: “Actions for Food Security of the Black Population in the Communities of Rocinha and Rio das Pedras”, a lecture conducted as part of the “Favela Nutrida” program, a public policy research project led by the Ghetto Institute, the Oswaldo Cruz Foundation and the Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
 
-#  💻 Current Projects 
-- working on the annotation of a legal text in Brazilian Portuguese (LEX-BR-Ius) with Professor Lucia Ferrari from UFMG, using UDPipe - our aim is to investigate diachronic language change since 1943 (the creation of the document) until nowadays.
+- *Oct 2024*, **Diabetes Awareness Program** *Cities Changing Diabetes* Presentation: 
 
-- volunteer researcher in the analysis of academic writing in the humanities with Professor Deise Dutra and Professor Tony Berber Sardinha.
+- *Oct 2024*, **Global Cuisines Featured: Brazil** *Vetri Community Partnership* Presentation: 
+
+#  💻 Non-profit and outreach education experience
+- xxxx
+
+- xxxx
 
 #  📖 Education
-- *2016 - 2018*, **Master's Degree in Applied Linguistics**. Universidade Federal de Minas Gerais, Belo Horizonte-MG
-*Thesis*: [Lexical Bundles in Sections of Applied Linguistics Research Articles](https://repositorio.ufmg.br/bitstream/1843/LETR-AXAJP5/1/dissertacao_mestrado_luciana_dias_de_macedo_2018__1_.pdf): Advisor: Prof. Deise Dutra. 
-- *2006 - 2010*, **Bachelor's Degree in English**. Universidade Federal de Minas Gerais, Belo Horizonte-MG
+- *Aug 2019 – Dec 2021*, **MS in Human Nutrition**. Universidade de Brasília-UnB
+*Thesis*: 
+
+
 
 #  📋 Link to CV
 
 <div class="badge">
-  <a href="{{ site.baseurl }}/_pages/LucianaDMacedo_CL_CV.pdf" target="_blank" style="color: inherit; text-decoration: none;">
+  <a href="{{ site.baseurl }}/_pages/ACCB_CV.pdf" target="_blank" style="color: inherit; text-decoration: none;">
     My CV (PDF)
   </a>
 </div>

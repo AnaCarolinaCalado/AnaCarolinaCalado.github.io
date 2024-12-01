@@ -3,20 +3,23 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Education"
+    url: "/#-education"
+
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Work Experience"
     url: "/#-work-experience"
 
+  - title: "Current Public Policy Project"
+    url: "/#-current-public-policy-project"
+
   - title: "Conference presentations and lectures"
     url: "/#-conference-presentations-and-lectures"
 
-  - title: "Non-profit and outreach education experience"
-    url: "/#-non-profit-and-outreach-education-experience"
-
-  - title: "Education"
-    url: "/#-education"
+  - title: "Non-profit and outreach education"
+    url: "/#-non-profit-and-outreach-education"
   
   - title: "Link to CV"
     url: "/#-link-to-cv"

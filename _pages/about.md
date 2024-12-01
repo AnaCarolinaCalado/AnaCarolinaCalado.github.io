@@ -20,7 +20,7 @@ redirect_from:
 I am a nutritionist with a Master’s degree in Human Nutrition and a certification in Maternal and Child Nutrition, focusing on both clinical and molecular aspects. I have extensive experience in managing chronic diseases, including kidney disease, obesity, and diabetes, with a particular focus on vulnerable populations for 14 years. In recent years, my work has increasingly engaged with public policy and social justice issues in Latin America and the United States, particularly food insecurity and its relationship to chronic disease. My academic interests lie at the intersection of nutrition, public health, and social justice, with a goal of advancing more equitable and effective food policies to improve the health of at-risk populations.
 
 #  📖 Education
-- *Aug 2019 – Dec 2021*, **Master 's in Human Nutrition**, Universidade de Brasília-UnB, Brasília-DF, Brazil.
+- *Aug 2019 – Dec 2021*, **Master's in Human Nutrition**, Universidade de Brasília-UnB, Brasília-DF, Brazil.
   - *Thesis*: Obstructive Sleep Apnea Risk in Individuals After Long-term Bariatric Surgery; advisor: Dr. Kênia Mara Baiocchi de Carvalho.
 
 - *Mar 2018 – Sep 2019*, **Graduate Degree (Specialist) in Maternal and Child Nutrition**, Fundação de Apoio à Pesquisa e Estudo na Área da Saúde- FAPES.
